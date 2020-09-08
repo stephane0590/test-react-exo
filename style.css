@@ -1,0 +1,11 @@
+body {
+    background: rgb(63, 115, 139);
+  }
+
+#foto{
+    border-radius: 30%;
+}
+
+#root{
+text-align: center;
+}
